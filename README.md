@@ -26,7 +26,7 @@ An AI-assisted lesson planner that generates a structured lesson sequence by dra
 
 The case study and prototype are fully interactive with no backend required. Open `index.html` in any modern browser, or visit the hosted version:
 
-**[View the case study →](https://nouned.github.io/ai-assisted-lesson-planner-edtech/)**
+**[View the case study →](https://mkstvnsn.github.io/ai-assisted-lesson-planner-edtech/)**
 
 The prototype includes clickable interactions: swap activities, add custom items, view individual student profiles, edit lesson goals, add homework tasks, record voice reflections, and regenerate the lesson plan.
 
